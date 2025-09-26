@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b><u>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</u></b>
+    START_TXT = """<b><u> Welcome </u></b>
 
 <b>ʜᴇʏ {}, {}</b>
 
@@ -7,11 +7,11 @@ class script(object):
 """
 
 
-    GSTART_TXT = """<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b>
+    GSTART_TXT = """<b> welcome</b>
 
 <b>ʜᴇʏ {},</b>
 
-<b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>"""
+<b>🤖 ɪ ᴀᴍ <a href=https://t.me/AAA_MODZ1{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>"""
 
     
     HELP_TXT = """<b>
@@ -35,8 +35,8 @@ class script(object):
 </b>"""
 
     ABOUT_TXT = """<b>╭────[ ᴍʏ ᴅᴇᴛᴀɪʟs ]────⍟
-├⍟ Mʏ Nᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>ᴏᴡɴᴇʀ</a> 
+├⍟ Mʏ Nᴀᴍᴇ : <a href=https://t.me/AAA_MODZ1{}>{}</a>
+├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>ᴀʙɪᴅx</a> 
 ├⍟ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 ├⍟ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
 ├⍟ Dᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -216,7 +216,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/dreamxbotz">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/dreamxbotz">[ ᴅʀᴇᴀᴍxʙᴏᴛᴢ ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/Moviekhoj_bot">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/Moviekhoj_bot">[ ɢʀᴇᴀᴛғʟɪx ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
@@ -287,7 +287,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
 ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ʙᴜʏ ᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ ꜱᴇʀᴠɪᴄᴇ ᴜꜱɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛᴀʀꜱ.  
 
-ɪꜰ ʏᴏᴜ ꜰᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ᴛᴀᴋᴇ ᴀ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀɴᴅ ꜱᴇɴᴅ ɪᴛ ᴛᴏ - @deendayal_Support_group
+ɪꜰ ʏᴏᴜ ꜰᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ᴛᴀᴋᴇ ᴀ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀɴᴅ ꜱᴇɴᴅ ɪᴛ ᴛᴏ - @abid463
 
 ꜱᴇʟᴇᴄᴛ ʏᴏᴜʀ ᴅᴇꜱɪʀᴇᴅ ᴀᴍᴏᴜɴᴛ ᴀɴᴅ ᴘᴜʀᴄʜᴀꜱᴇ ᴀ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ 👇.</b>
 """
@@ -394,7 +394,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     SOURCE_TXT ="""<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ : 👇 </b>
 
 This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Code Is Strictly Prohibited.\n
-ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/DreamXBotz/Auto_Filter_Bot.git>𝓓𝓻𝓮𝓪𝓶𝔁𝓑𝓸𝓽𝔃</a>\n """
+ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/DreamXBotz.git>𝓓𝓻𝓮𝓪𝓶𝔁𝓑𝓸𝓽𝔃</a>\n """
 
     SETTING_TXT = """    
 <u>ꜱᴇᴛᴛɪɴɢꜱ</u> :
