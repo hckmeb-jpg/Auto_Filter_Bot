@@ -53,8 +53,8 @@ reqst_channel = environ.get('REQST_CHANNEL_ID', '-1001747289516')  # Request cha
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/Public_gamer_111')  # Support group link (make sure bot is admin)
 
 # FORCE_SUB 
-auth_req_channels = environ.get("AUTH_REQ_CHANNELS", "-100")# requst to join Channel for force sub (make sure bot is admin) only for bot ADMINS  
-auth_channels     = environ.get("AUTH_CHANNELS", "-100")# Channels for force sub (make sure bot is admin)
+auth_req_channels = environ.get("AUTH_REQ_CHANNELS", "-1003117950935")# requst to join Channel for force sub (make sure bot is admin) only for bot ADMINS  
+auth_channels     = environ.get("AUTH_CHANNELS", "-1003022742649")# Channels for force sub (make sure bot is admin)
 
 # ============================
 # Payment Configuration
@@ -108,11 +108,11 @@ TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/ROD_MOVIES_FAN")   # Third 
 SHORTENER_API = environ.get("SHORTENER_API", "518c4d7a85fd5b929db003c11668a50e01e91089") # Shortener API key
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "smallshorts.com") # Shortener website
 
-SHORTENER_API2 = environ.get("SHORTENER_API2", "518c4d7a85fd5b929db003c11668a50e01e91089")  # Shortener API key for second website
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "smallshorts.com") # Shortener website for second website
+SHORTENER_API2 = environ.get("SHORTENER_API2", "")  # Shortener API key for second website
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "") # Shortener website for second website
 
-SHORTENER_API3 = environ.get("SHORTENER_API3", "518c4d7a85fd5b929db003c11668a50e01e91089")  
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "smallshorts.com") # Shortener website for third website
+SHORTENER_API3 = environ.get("SHORTENER_API3", "")  
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "") # Shortener website for third website
 
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "1200")) # Time gap for two-step verification in seconds (default: 20 minutes)
 THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "54000"))    
@@ -156,7 +156,7 @@ PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False) #
 PM_SEARCH = bool(environ.get('PM_SEARCH', True))  # PM Search On (True) / Off (False)
 EMOJI_MODE = bool(environ.get('EMOJI_MODE', False))  # Emoji status On (True) / Off (False)
 BUTTON_MODE = is_enabled((environ.get('BUTTON_MODE', "False")), False) # pm & Group button or link mode (True) / Off (False)
-STREAM_MODE = bool(environ.get('STREAM_MODE', True)) # Set Stream mode True or False
+STREAM_MODE = bool(environ.get('STREAM_MODE', False)) # Set Stream mode True or False
 PREMIUM_STREAM_MODE = bool(environ.get('PREMIUM_STREAM_MODE', False)) # Set Stream mode True or False only for premium users
 
 
